@@ -152,8 +152,8 @@ activemq-data/
 .envrc
 .venv
 ML_Dev_01/
-.artifacts/
-artifacts/
+# .artifacts/
+# artifacts/
 env/
 venv/
 ENV/
